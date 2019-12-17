@@ -1,0 +1,17 @@
+{
+  "name": "shell-script-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava ./_test/index.js"
+  },
+  "keywords": ["webpack", "shell script", "hook"],
+  "author": "yiyu.liao",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "fs-extra": "^8.1.0",
+    "webpack": "^4.41.3"
+  }
+}
